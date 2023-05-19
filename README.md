@@ -6,9 +6,15 @@ The project made uses a simple Neural Network to feed the information and predic
 
 Project Scope:
 Project: ChitChat
+
 Category: Machine Learning
+
 Programming Language: Python
+
 Tools & Libraries: Keras, Tensorflow, NLTK, Tkinter, Numpy
+
 Front End: Python – Tkinter
+
 Back End: Python
+
 Prerequisites: Python, Machine Learning
