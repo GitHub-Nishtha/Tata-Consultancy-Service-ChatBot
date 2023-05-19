@@ -1,0 +1,597 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ],
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ],
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
+      ],
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!"
+      ]
+    },
+    {
+      "tag": "items",
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ],
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ]
+    },
+    {
+      "tag": "payments",
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ],
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
+      ],
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ]
+    },
+    {
+      "tag": "funny",
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ],
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ]
+    },
+    {
+      "tag": "Normans",
+      "responses": [
+        "France"
+      ],
+      "patterns": [
+        "In what country is Normandy located?",
+        "Where is Normandy?"
+      ]
+    },
+    {
+      "tag": "Jamaica",
+      "responses": [
+        "Jamaican Creole English Language",
+        "Jamaican English"
+      ],
+      "patterns": [
+        "what does jamaican people speak?",
+        "How do you jamaican people talk?"
+      ]
+    },
+    {
+      "tag": "james k polk",
+      "responses": [
+        "Lawyer"
+      ],
+      "patterns": [
+        "what did james k polk do before he was president?",
+        "what was james k polk's occupation before he was president?"
+      ]
+    },
+    {
+      "tag": "oregon ducks 2012 football",
+      "responses": [
+        "University of Oregon"
+      ],
+      "patterns": [
+        "what is the oregon ducks 2012 football schedule?",
+        "oregon ducks 2012 football schedule"
+      ]
+    },
+    {
+      "tag": "ken barlow",
+      "responses": [
+        "Tony Warren"
+      ],
+      "patterns": [
+        "who plays ken barlow in coronation street?",
+        "in coronation street who plays ken barlow?"
+      ]
+    },
+    {
+      "tag": "sugihara",
+      "responses": [
+        "After Mr. Sugihara's death, a monument was dedicated to him in Japan"
+      ],
+      "patterns": [
+        "what happened after mr. sugihara died?",
+        "who was mr. sugihara?"
+      ]
+    },
+    {
+      "tag": "jamarcus russell",
+      "responses": [
+        "Mobile"
+      ],
+      "patterns": [
+        "where is jamarcus russell from?",
+        "Where was jamarcus rusell born?"
+      ]
+    },
+    {
+      "tag": "",
+      "responses": [
+        "Diamond, Missouri, United States"
+      ],
+      "patterns": [
+        "where was george washington carver from?",
+        "Where did George Washington Carver get raised?"
+      ]
+    },
+    {
+      "tag": "ben frnaklin",
+      "responses": [
+        "Ben Franklin invented Lightning rod",
+        "Ben Franklin invented Franklin stove",
+        "Ben Franklin invented Bifocals",
+        "Ben Franklin invented Glass harmonica"
+      ],
+      "patterns": [
+        "what else did ben franklin invent?",
+        "what did ben franklin invent?"
+      ]
+    },
+    {
+      "tag": "richard nixon",
+      "responses": [
+        "Pat Nixon is the spouse of Richard Nixon"
+      ],
+      "patterns": [
+        "who was richard nixon married to?",
+        "who is richard nixon's wife?"
+      ]
+    },
+    {
+      "tag": "ww1",
+      "responses": [
+        "Belgium"
+      ],
+      "patterns": [
+        "what country did germany invade first in ww1?",
+        "germany invaded which country first?"
+      ]
+    },
+    {
+      "tag": "resort",
+      "responses": [
+        "Micoud Quarter",
+        "Choiseul Quarter",
+        "Praslin Quarter",
+        "Vieux Fort Quarter",
+        "Castries Quarter",
+        "Laborie Quarter",
+        "Gros Islet Quarter",
+        "Anse la Raye Quarter",
+        "Dauphin Quarter",
+        "Dennery Quarter"
+      ],
+      "patterns": [
+        "what is the best sandals resort in st lucia?",
+        "which is the best resort?"
+      ]
+    },
+    {
+      "tag": "governor",
+      "responses": [
+        "John Kasich, Governor of Ohio"
+      ],
+      "patterns": "who is governor of ohio 2011?"
+    },
+    {
+      "tag": "kennedy",
+      "responses": [
+        "Lyndon B. Johnson"
+      ],
+      "patterns": "who was vice president after kennedy died?"
+    },
+    {
+      "tag": "fukushima",
+      "responses": [
+        "Japan",
+        "Okuma"
+      ],
+      "patterns": "where is the fukushima daiichi nuclear plant located?"
+    },
+    {
+      "tag": "minority",
+      "responses": [
+        "Nancy Pelosi"
+      ],
+      "patterns": "who is the minority leader of the house of representatives now?"
+    },
+    {
+      "tag": "uk",
+      "responses": [
+        "Scotland",
+        "England",
+        "Wales",
+        "Northern Ireland"
+      ],
+      "patterns": [
+        "what countries are part of the uk?",
+        "what consists of uk?",
+        "name a country part of uk"
+      ]
+    },
+    {
+      "tag": "hobbit",
+      "responses": [
+        "Norman Bird",
+        "Martin Freeman",
+        "Ian Holm"
+      ],
+      "patterns": [
+        "who plays bilbo baggins in the hobbit?",
+        "in hobbit who plays bilbo baggins"
+      ]
+    },
+    {
+      "tag": "luther",
+      "responses": [
+        "Martin Luther King introduced Civil rights movement",
+        "Martin Luther King introduced Civil disobedience",
+        "Martin Luther King introduced Nonviolence"
+      ],
+      "patterns": [
+        "what things did martin luther king do?",
+        "what did martin luther do?"
+      ]
+    },
+    {
+      "tag": "louisiana",
+      "responses": [
+        "Central Time Zone",
+        "UTC\u221206:00"
+      ],
+      "patterns": "what is my timezone in louisiana?"
+    },
+    {
+      "tag": "augustine",
+      "responses": [
+        "Physician",
+        "Writer",
+        "Philosopher"
+      ],
+      "patterns": [
+        "what did st augustine do?",
+        "st augustine did what?"
+      ]
+    },
+    {
+      "tag": "keyshia",
+      "responses": [
+        "Leon Cole"
+      ],
+      "patterns": [
+        "who is keyshia cole dad?",
+        "whos is the father of keyshia cole?"
+      ]
+    },
+    {
+      "tag": "egypt",
+      "responses": [
+        "Egypt has Semi-presidential system",
+        "Egypt has Constitutional republic",
+        "Egypt has Republic",
+        "Egypt has Unitary state"
+      ],
+      "patterns": [
+        "what kind government does egypt have?",
+        "what is the form of government of egypt?"
+      ]
+    },
+    {
+      "tag": "assasinated",
+      "responses": [
+        "Memphis"
+      ],
+      "patterns": [
+        "what town was martin luther king assassinated in?",
+        "where was martin luther king assassinated?"
+      ]
+    },
+    {
+      "tag": "rubber",
+      "responses": [
+        "During the early 1830's he began inventing, filing six patents between 1830 and 1834, and during this period became interested in rubber, which he tried - unsuccessfully - to use in some of his mechanical inventions."
+      ],
+      "patterns": "when did charles goodyear invented rubber?"
+    },
+    {
+      "tag": "atlanta",
+      "responses": [
+        "Atlanta History Center",
+        "Atlanta Cyclorama & Civil War Museum",
+        "Atlanta Ballet",
+        "Fernbank Museum of Natural History",
+        "Woodruff Arts Center",
+        "Zoo Atlanta",
+        "Atlanta Symphony Orchestra",
+        "Centennial Olympic Park",
+        "Martin Luther King, Jr., National Historic Site",
+        "Fernbank Science Center"
+      ],
+      "patterns": "what to do today in atlanta with kids?"
+    },
+    {
+      "tag": "ww2",
+      "responses": [
+        "France surrendered to Germany in ww2"
+      ],
+      "patterns": "who did france surrender to in ww2?"
+    },
+    {
+      "tag": "anna",
+      "responses": [
+        "Electoral district of South Brisbane"
+      ],
+      "patterns": "what electorate does anna bligh represent?"
+    },
+    {
+      "tag": "pageant",
+      "responses": [
+        "USA Pageant is telecasted on US"
+      ],
+      "patterns": [
+        "what channel is the usa pageant on?",
+        "where can i see usa pageant?"
+      ]
+    },
+    {
+      "tag": "islam",
+      "responses": [
+        "Zak\u0101t",
+        "Salah",
+        "Hajj",
+        "Islamic dietary laws",
+        "Mosque Carpet",
+        "Jihad",
+        "Sawm",
+        "Halal food",
+        "Shahada",
+        "Adab"
+      ],
+      "patterns": [
+        "what are some of the traditions of islam?",
+        "What are different rules of islam?",
+        "what did the islamic people believe in?"
+      ]
+    },
+    {
+      "tag": "mozart",
+      "responses": [
+        "Joseph Leutgeb"
+      ],
+      "patterns": [
+        "who did mozart write his four horn concertos for?",
+        "Mozart wrote his four concertos for?"
+      ]
+    },
+    {
+      "tag": "murray",
+      "responses": [
+        "Murray belongs to United Kingdom"
+      ],
+      "patterns": [
+        "where did andy murray started playing tennis?",
+        "Which country does andy murray belong to?"
+      ]
+    },
+    {
+      "tag": "dollar",
+      "responses": [
+        "Australian dollar"
+      ],
+      "patterns": [
+        "what is the australian dollar called?",
+        "what is australia's currency?"
+      ]
+    },
+    {
+      "tag": "sweden",
+      "responses": [
+        "Central European Time"
+      ],
+      "patterns": "what timezone is sweden?"
+    },
+    {
+      "tag": "newton",
+      "responses": [
+        "Carolina Panthers"
+      ],
+      "patterns": "who did cam newton sign with?"
+    },
+    {
+      "tag": "frederick",
+      "responses": [
+        "Frederick County"
+      ],
+      "patterns": "what county is frederick md in?"
+    },
+    {
+      "tag": "lee",
+      "responses": [
+        "Monroe County High School"
+      ],
+      "patterns": [
+        "what highschool did harper lee go to?",
+        "what is harper lee's highschool?"
+      ]
+    },
+    {
+      "tag": "utah",
+      "responses": [
+        "Mountain Time Zone"
+      ],
+      "patterns": "what timezone is utah in?"
+    },
+    {
+      "tag": "bush",
+      "responses": [
+        "Al Gore"
+      ],
+      "patterns": [
+        "who did george w. bush run against for the second term?",
+        "who did george bush defeat in second term?"
+      ]
+    },
+    {
+      "tag": "ferguson",
+      "responses": [
+        "Ayaan Hirsi Ali"
+      ],
+      "patterns": [
+        "who is niall ferguson's wife?",
+        "who is the spouse of niall ferguson?"
+      ]
+    },
+    {
+      "tag": "galapagos",
+      "responses": [
+        "Pacific Ocean",
+        "Gal\u00e1pagos Province"
+      ],
+      "patterns": "where is the galapagos islands located on a world map?"
+    },
+    {
+      "tag": "bieber",
+      "responses": [
+        "Catching Feelings",
+        "Down to Earth",
+        "Beauty and a Beat",
+        "All Around The World (featuring Ludacris)",
+        "Die in Your Arms",
+        "As Long As You Love Me (featuring Big Sean)",
+        "Baby",
+        "Believe",
+        "Be Alright",
+        "Boyfriend"
+      ],
+      "patterns": [
+        "what are the songs that justin bieber wrote?",
+        "name a song by justin biber"
+      ]
+    },
+    {
+      "tag": "clemenceau",
+      "responses": [
+        "Newspaper",
+        "Physician",
+        "Statesman",
+        "Publisher"
+      ],
+      "patterns": [
+        "what did george clemenceau do?",
+        "What was George Clemenceau known for?"
+      ]
+    },
+    {
+      "tag": "arizona",
+      "responses": [
+        "Saguaro"
+      ],
+      "patterns": [
+        "what is the state flower of arizona?",
+        "Arizona state flower"
+      ]
+    },
+    {
+      "tag": "rihanna",
+      "responses": [
+        "Saint Michael Parish",
+        "Barbados"
+      ],
+      "patterns": [
+        "where was rihanna born and raised?",
+        "rhinanna birth place?"
+      ]
+    },
+    {
+      "tag": "lopez",
+      "responses": [
+        "Mission Hills"
+      ],
+      "patterns": [
+        "where george lopez was born?",
+        "George lopez birthplace"
+      ]
+    },
+    {
+      "tag": "samsung",
+      "responses": [
+        "Seoul, Korea"
+      ],
+      "patterns": [
+        "where are samsung based?",
+        "where is samsung from?",
+        "Samsung came out of what country?"
+      ]
+    },
+    {
+      "tag": "chadwick",
+      "responses": [
+        "Neutron"
+      ],
+      "patterns": [
+        "what did the scientist chadwick discovered?",
+        "what did chadwick discover?"
+      ]
+    }
+  ]
+}
