@@ -4,3 +4,11 @@ A chatbot is a program that uses Artificial Intelligence to simulate human-like 
 
 The project made uses a simple Neural Network to feed the information and predict the response on the basis of uniquely identified word in the query. The dataset used to train this model is an open- source question answering dataset. Thus, the model is limited to answer the questions that are present in the dataset. A GUI was made for the project where the user can enter the query and the model produces a response for the same. The presence of GUI makes the usage of the chatbot easier.
 
+Project Scope
+• Project: ChitChat
+• Category: Machine Learning
+• Programming Language: Python
+• Tools & Libraries: Keras, Tensorflow, NLTK, Tkinter, Numpy
+• Front End: Python – Tkinter
+• Back End: Python
+• Prerequisites: Python, Machine Learning
